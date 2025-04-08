@@ -17,4 +17,4 @@ The rotating slider ensures a dynamic and visually engaging experience for users
 - **Text Overlay:** Each image has an optional overlay text to describe the destination.
 - **Minimalistic Aesthetic:** Simple and clean design with focus on the content (images).
 
-
+Need for latest project ui in airbnb
